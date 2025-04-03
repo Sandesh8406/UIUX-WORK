@@ -18,3 +18,5 @@
 
 
 6.voice controller apllication page
+
+![Image](https://github.com/user-attachments/assets/7f23c030-01a4-4aca-8b9e-a6cb0fce12fa)
