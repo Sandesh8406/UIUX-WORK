@@ -17,6 +17,7 @@
 
 5.mockup logo desgin page
 
+![Image](https://github.com/user-attachments/assets/87a7a245-6e34-40e7-811c-d0797022bebf)
 
 6.voice controller apllication page
 
