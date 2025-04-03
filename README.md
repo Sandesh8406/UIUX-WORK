@@ -1,6 +1,7 @@
 # UIUX-WORK
 1. Mobile friendly login and sign up pages
-  
+
+![Image](https://github.com/user-attachments/assets/7f23c030-01a4-4aca-8b9e-a6cb0fce12fa)
 
  2.Resturant menu pages
 
@@ -19,4 +20,4 @@
 
 6.voice controller apllication page
 
-![Image](https://github.com/user-attachments/assets/7f23c030-01a4-4aca-8b9e-a6cb0fce12fa)
+
