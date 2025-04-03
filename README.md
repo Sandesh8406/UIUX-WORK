@@ -4,6 +4,7 @@
 
  2.Resturant menu pages
 
+ ![Image](https://github.com/user-attachments/assets/d69ef47c-22e8-4e7a-987d-da4e2126b894)
 
 3.email templet page
 
