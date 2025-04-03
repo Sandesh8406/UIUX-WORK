@@ -8,6 +8,7 @@
 
 3.email templet page
 
+![Image](https://github.com/user-attachments/assets/a6a462ac-397b-4170-a657-0d9a69931358)
 
 4.ecommerce website page
 
